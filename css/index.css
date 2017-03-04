@@ -1,0 +1,21 @@
+body
+{
+	font-family: "Open Sans", sans-serif; /* Changement des polices */
+
+}
+
+#h1
+{
+	text-align: center;
+	color: red;
+}
+
+.paragraphe
+{
+	text-align: center;
+}
+
+form p
+{
+	text-align: center;
+}
